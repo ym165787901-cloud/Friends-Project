@@ -1,0 +1,15 @@
+.one{
+    background-color: blue;
+    font-size: medium;
+    font-style: italic;
+    padding: 0% 50%;
+
+}
+p{
+    background-color:red;
+    display: inline;
+
+}
+footer{
+    background-color: brown;
+}
