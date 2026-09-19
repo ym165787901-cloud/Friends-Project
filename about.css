@@ -1,0 +1,28 @@
+h1{
+    background-color:red ;
+}
+h2{
+    font-size: xx-large;
+    font-style: italic;
+    padding: 0% 50%;
+    border-style: solid;
+}
+footer{
+    background-color: rgb(207, 2, 13);
+    ont-size: xx-large;
+    padding: 20px 0px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+footer .c{
+    background-color: rgb(207, 2, 13);
+ont-size: xx-large;
+display: flex;
+flex-direction: column;
+justify-content: end;
+align-items: end;
+
+}

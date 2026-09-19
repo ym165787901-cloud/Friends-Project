@@ -1,9 +1,13 @@
 .one{
     background-color: blue;
-    font-size: medium;
+    font-size: xx-large;
     font-style: italic;
-    padding: 0% 50%;
-
+    padding: 20px 0%;
+    width: 100%;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
 }
 p{
     background-color:red;
@@ -12,4 +16,5 @@ p{
 }
 footer{
     background-color: brown;
+    display: inline-block;
 }
