@@ -8,6 +8,7 @@
     flex-direction: row;
     display: flex;
     justify-content: center;
+    outline-style: solid;
 }
 p{
     background-color:red;
