@@ -1,17 +1,17 @@
-.one{
-    background-color: blue;
+header .one{
+    background-image: url(https://i.pinimg.com/1200x/4f/44/8d/4f448dfc35910f9d0a93a87f28a8d28f.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     font-size: xx-large;
     font-style: italic;
     padding: 20px 0%;
     width: 100%;
-    align-items: center;
-    flex-direction: row;
-    display: flex;
-    justify-content: center;
-    outline-style: solid;
+    color: rgba(255, 0, 0, 0.534);
+    text-align: center;
 }
 p{
-    background-color:red;
+    background-color:rgb(255, 0, 0);
     display: inline;
 
 }
